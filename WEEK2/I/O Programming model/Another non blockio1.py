@@ -49,7 +49,7 @@ while inputs:
 
     for s in exceptional:
         logginh.info(f'Non Blocking - error')
-        inputs.remove(s)
+        inputs.remove(s)pawa
         outputs.remove(s)
         break
 while inputs:
